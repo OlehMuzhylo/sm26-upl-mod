@@ -1,0 +1,19 @@
+{
+    "ClubData": [
+        {
+            "ID": 1824,
+            "Name": "FC Lviv",
+            "ShortName": "LVI",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d7/FC_Lviv_logo.svg"
+        }
+    ],
+    "StadiumData": [
+        {
+            "ID": 1824,
+            "Name": "Arena Lviv"
+        }
+    ],
+    "LeagueData": [],
+    "CupData": [],
+    "PlayerData": []
+}
